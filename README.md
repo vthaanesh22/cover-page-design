@@ -1,4 +1,4 @@
-# cover-page-design
+# COVER-PAGE-DESIGN
 ## AIM:
 To develop a website to display the cover page design of a book
 
